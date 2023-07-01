@@ -1,1 +1,11 @@
-style
+body {
+    background-image: url(./img/IMG-12102.JPG);
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+  
+    /* Center the background image */
+    background-position: center;
+
+      /* Scale the background image to be as large as possible */
+    background-size: contain;    
+}
