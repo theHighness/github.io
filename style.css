@@ -1,12 +1,8 @@
 body {
-    background-image: url(./docs/assets/img/IMG-12102.jpg);
+    background-image: url(./docs/assets/img/image_6.JPG);
     /* Set background image to fixed (don't scroll along with the page) */
     background-attachment: fixed;
-    
-    /* Center the background image */
+    background-repeat: no-repeat;
     background-position: center;
-    
-    /* Scale the background image to be as large as possible */
-    background-size: contain;    
   
 }
